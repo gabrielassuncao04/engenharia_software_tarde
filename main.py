@@ -14,4 +14,4 @@ def main(argv):
         print('Olá, mundo!')    
 
 if __name__ == '__main__':
-    main(sys.argv)
+    main()
